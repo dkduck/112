@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Alarm Feed",
+        "description": "Enter ID and number of alarms",
+        "data": {
+          "feed_id": "Feed ID",
+          "count": "Number of alarms"
+        }
+      }
+    }
+  }
+}
